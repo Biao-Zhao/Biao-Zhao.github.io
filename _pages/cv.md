@@ -41,12 +41,10 @@ Skills
   * Linux/Unix
   * Windows
 * Numerical models
-  * WRF
-  * ROMS
-  * POM
-  * WAVEWATCH III
-  * MASNUM
-  * C-Coupler
+  * air: WRF
+  * ocean: ROMS, POM
+  * wave: WAVEWATCH III, MASNUM
+  * coupler: C-Coupler
 * Data visualization
   * MATLAB
   * Surfer
