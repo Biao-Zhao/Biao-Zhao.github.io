@@ -74,7 +74,9 @@ Publications
     
 9.	Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999.
     
-10.	Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869. 
+10.	Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.
+    
+11.	Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al. (2023). Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. Geophysical Research Letters, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
 
 
   
