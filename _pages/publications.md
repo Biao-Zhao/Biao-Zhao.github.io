@@ -9,6 +9,8 @@ author_profile: true
 
 2023
 ======
+Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al. (2023). Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. Geophysical Research Letters, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
+
 Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [https://doi.org/10.3389/fmars.2022.1102631](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
 
 2022
