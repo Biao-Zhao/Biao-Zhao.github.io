@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2023.08-present: Postdoctoral researcher
+* 2023.08-present: Postdoctoral Researcher
   * Uppsala Univeristy
   * Duties included: air-wave interaction
   * Supervisor: Associate Professor Lichuan Wu and Erik Sahlée
