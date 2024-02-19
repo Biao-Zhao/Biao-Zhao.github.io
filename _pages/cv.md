@@ -76,7 +76,9 @@ Publications
     
 10.	Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.
     
-11.	Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al. (2023). Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. Geophysical Research Letters, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
+11.	Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al., 2023. Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. Geophysical Research Letters, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
+
+12.	Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). Deep Sea Research Part I, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
 
 
   
