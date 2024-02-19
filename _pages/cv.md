@@ -67,19 +67,18 @@ Publications
 5.	Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. Journal of Geophysical Research: Oceans, 123, 9357– 9368. https://doi.org/10.1029/2018JC014137.
 	
 6.	Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. doi: 10.3389/fmars.2022.1102631.
+    
+7.	Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao, F., and Wang, B., 2021. Developing a common, flexible and efficient framework for weakly coupled ensemble data assimilation based on C-Coupler2.0, Geosci. Model Dev., 14, 2635-2657, https://doi.org/10.5194/gmd-14-2635-2021.
+    
+8.	Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999.
+    
+9.	Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.
+    
+10.	Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al., 2023. Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. Geophysical Research Letters, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
 
-7.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2022-77.
-    
-8.	Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao, F., and Wang, B., 2021. Developing a common, flexible and efficient framework for weakly coupled ensemble data assimilation based on C-Coupler2.0, Geosci. Model Dev., 14, 2635-2657, https://doi.org/10.5194/gmd-14-2635-2021.
-    
-9.	Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999.
-    
-10.	Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.
-    
-11.	Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al., 2023. Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. Geophysical Research Letters, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
+11.	Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). Deep Sea Research Part I, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
 
-12.	Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). Deep Sea Research Part I, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
-
+12.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023: CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, Geosci. Model Dev., 16, 6285–6308, https://doi.org/10.5194/gmd-16-6285-2023.
 
   
 Talks
