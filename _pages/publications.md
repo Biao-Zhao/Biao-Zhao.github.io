@@ -15,7 +15,7 @@ Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 
 
 Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [https://doi.org/10.3389/fmars.2022.1102631](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
 
-Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023: CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, Geosci. Model Dev., 16, 6285–6308, [https://doi.org/10.5194/gmd-16-6285-2023](https://gmd.copernicus.org/articles/16/6285/2023/).
+Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023. CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, Geosci. Model Dev., 16, 6285–6308, [https://doi.org/10.5194/gmd-16-6285-2023](https://gmd.copernicus.org/articles/16/6285/2023/).
 
 2022
 ======
