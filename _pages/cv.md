@@ -40,16 +40,16 @@ Skills
   * Shell
   * Linux/Unix
   * GitHub&GitLab
-* Numerical models
+* Numerical Models
   * air: WRF
   * ocean: ROMS, POM
   * wave: WAVEWATCH III, MASNUM
   * coupler: C-Coupler
-* Data visualization
+* Data Visualization
   * MATLAB
   * Surfer
   * Grapher
-* Data analysis
+* Data Analysis
   * EOF
   * EMD
     
