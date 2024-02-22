@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric Science,Tsinghua University, 2023
+* Ph.D in Atmospheric Science, Tsinghua University, 2023
 * M.S. in Physical Oceanography, First Institute of Oceanograpgy, 2012
 * B.S. in Marine Science, Ocean University of China, 2008
 
-Work experience
+Work Experience
 ======
 * 2023.08-present: Postdoctoral Researcher
   * Uppsala Univeristy
