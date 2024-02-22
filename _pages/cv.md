@@ -39,7 +39,7 @@ Skills
   * MATLAB
   * Shell
   * Linux/Unix
-  * Windows
+  * GitHub&GitLab
 * Numerical models
   * air: WRF
   * ocean: ROMS, POM
