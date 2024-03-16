@@ -58,11 +58,11 @@ Publications
 ======
 1.	**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
    
-2.	**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723.
+2.	**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall. Journal of Geophysical Research: Oceans, 122(3), 1702-1723.
 	
-3.	**Zhao, B.**, Qiao, F., and Wang, G., 2014. The effects of the non-breaking surface wave-induced vertical mixing on the forecast of tropical cyclone tracks[J]. Chinese Science Bulletin, 59(24), 3075-3084. https://doi.org/10.1007/s11434-014-0255-0.
+3.	**Zhao, B.**, Qiao, F., and Wang, G., 2014. The effects of the non-breaking surface wave-induced vertical mixing on the forecast of tropical cyclone tracks. Chinese Science Bulletin, 59(24), 3075-3084. https://doi.org/10.1007/s11434-014-0255-0.
   
-4.	Wang, G., **Zhao, B.**, Qiao, F. et al., 2018. Rapid intensification of Super Typhoon Haiyan: the important role of a warm-core ocean eddy[J]. Ocean Dynamics, 68(12), 1649-1661. https://doi.org/10.1007/s10236-018-1217-x.
+4.	Wang, G., **Zhao, B.**, Qiao, F. et al., 2018. Rapid intensification of Super Typhoon Haiyan: the important role of a warm-core ocean eddy. Ocean Dynamics, 68(12), 1649-1661. https://doi.org/10.1007/s10236-018-1217-x.
 	
 5.	Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. Journal of Geophysical Research: Oceans, 123, 9357– 9368. https://doi.org/10.1029/2018JC014137.
 	
