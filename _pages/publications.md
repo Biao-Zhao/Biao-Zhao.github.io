@@ -25,6 +25,8 @@ Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, 
 ======
 Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao, F., and Wang, B., 2021. Developing a common, flexible and efficient framework for weakly coupled ensemble data assimilation based on C-Coupler2.0, Geosci. Model Dev., 14, 2635-2657. [https://doi.org/10.5194/gmd-14-2635-2021](https://gmd.copernicus.org/articles/14/2635/2021/)
 
+Zhao, J., Yang, T., Shu, Q.， Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. Acta Oceanol. Sin. 40, 129–141. [https://doi.org/10.1007/s13131-021-1727-0](https://link.springer.com/article/10.1007/s13131-021-1727-0).
+
 2019
 ======
 Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869. [https://doi.org/10.1016/j.coldregions.2019.102869](https://www.sciencedirect.com/science/article/pii/S0165232X18305883) 
