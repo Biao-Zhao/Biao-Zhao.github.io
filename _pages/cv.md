@@ -79,7 +79,7 @@ Publications
 11.	Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). Deep Sea Research Part I, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
 
 12.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023: CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, Geosci. Model Dev., 16, 6285–6308, https://doi.org/10.5194/gmd-16-6285-2023.
-13.	Zhao, J., Yang, T., Shu, Q.， Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. Acta Oceanol. Sin. 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0
+13.	Zhao, J., Yang, T., Shu, Q.，Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. Acta Oceanol. Sin. 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0
 
   
 Talks
