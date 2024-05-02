@@ -68,7 +68,7 @@ Publications
 	
 6.	Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. *Journal of Geophysical Research: Oceans*, 123, 9357– 9368. https://doi.org/10.1029/2018JC014137.
 	
-7.	Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. *Frontiers in Marine Science*. 9:1102631. doi: 10.3389/fmars.2022.1102631.
+7.	Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. *Frontiers in Marine Science*, 9:1102631. doi: 10.3389/fmars.2022.1102631.
     
 8.	Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao, F., and Wang, B., 2021. Developing a common, flexible and efficient framework for weakly coupled ensemble data assimilation based on C-Coupler2.0, *Geoscientific Model Development*, 14, 2635-2657, https://doi.org/10.5194/gmd-14-2635-2021.
     
@@ -82,7 +82,7 @@ Publications
 
 13.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023: CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, *Geoscientific Model Development*, 16, 6285–6308, https://doi.org/10.5194/gmd-16-6285-2023.
 
-14.	Zhao, J., Yang, T., Shu, Q.，Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. *Acta Oceanologica Sinica*. 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0
+14.	Zhao, J., Yang, T., Shu, Q.，Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. *Acta Oceanologica Sinica*, 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0
 
   
 Talks
