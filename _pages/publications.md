@@ -14,7 +14,7 @@ author_profile: true
 ======
 Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al., 2023. Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. *Geophysical Research Letters*, 50, e2023GL106536. [https://doi.org/10.1029/2023GL106536](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106536).
 
-Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). *Deep Sea Research Part I*, 202,104178, [https://doi.org/10.1016/j.dsr.2023.104178](https://www.sciencedirect.com/science/article/pii/S0967063723002170?via%3Dihub).
+Zhanpeng Zhuang, Yang, Y., Shu, Q., Song, Z., **Zhao, B.**, Yuan, Y., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). *Deep Sea Research Part I*, 202,104178, [https://doi.org/10.1016/j.dsr.2023.104178](https://www.sciencedirect.com/science/article/pii/S0967063723002170?via%3Dihub).
 
 Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. *Frontiers in Marine Science*, 9:1102631. [https://doi.org/10.3389/fmars.2022.1102631](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
 
