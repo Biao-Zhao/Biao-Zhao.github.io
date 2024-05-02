@@ -78,7 +78,7 @@ Publications
     
 11.	Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al., 2023. Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. *Geophysical Research Letters*, 50, e2023GL106536. https://doi.org/10.1029/2023GL106536.
 
-12.	Zhanpeng Zhuang, Yongzeng Yang, Qi Shu, Zhenya Song, **Biao Zhao**, Yeli Yuan., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). *Deep Sea Research Part I*, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
+12.	Zhanpeng Zhuang, Yang, Y., Shu, Q., Song, Z., **Zhao, B.**, Yuan, Y., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). *Deep Sea Research Part I*, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
 
 13.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023: CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, *Geoscientific Model Development*, 16, 6285–6308, https://doi.org/10.5194/gmd-16-6285-2023.
 
