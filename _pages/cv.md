@@ -87,26 +87,26 @@ Publications
   
 Talks
 ======
-1. **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, **Autumn Seminar**, 2023.08, Uppsala, Sweden (Talk).
+1. **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, *Autumn Seminar*, 2023.08, Uppsala, Sweden (Talk).
    
-2.  **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, **4th Workshop on Waves and Wave-Coupled Processes**, 2023.02, Uppsala, Sweden (Online Talk).
+2.  **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, *4th Workshop on Waves and Wave-Coupled Processes*, 2023.02, Uppsala, Sweden (Online Talk).
   
-3. **Zhao Biao**, the development of a regional Atmosphere-Ocean-Wave coupled model for Typhoon, **Eat Asian Workshop on a predicted Ocean**, 2021.09, Qingdao, China (online Talk).
+3. **Zhao Biao**, the development of a regional Atmosphere-Ocean-Wave coupled model for Typhoon, *Eat Asian Workshop on a predicted Ocean*, 2021.09, Qingdao, China (online Talk).
   
-4. **Zhao Biao**, Sensitivity of typhoon modeling to surface waves and rainfall, **2th Workshop on Waves and Wave-Coupled Processes**, 2017.10, Qingdao, China (Talk).
+4. **Zhao Biao**, Sensitivity of typhoon modeling to surface waves and rainfall, *2th Workshop on Waves and Wave-Coupled Processes*, 2017.10, Qingdao, China (Talk).
   
-5. **Zhao Biao**, Sensitivity of typhoon modeling to surface waves and rainfall, **8th International Workshop on Modeling the Ocean (IWMO)**, 2016.06, Bologna, Italy (Poster).
+5. **Zhao Biao**, Sensitivity of typhoon modeling to surface waves and rainfall, *8th International Workshop on Modeling the Ocean (IWMO)*, 2016.06, Bologna, Italy (Poster).
 
   
 Projects
 ======
-1.	National Natural Science Foundation of China (2015-2018): Effect of rainfall-induced horizontal stress on air-sea momentum flux, 258k RMB, **PI**
+1.	National Natural Science Foundation of China (2015-2018): Effect of rainfall-induced horizontal stress on air-sea momentum flux, 258k RMB, PI
    
-2.	National Key Research and Development Program of China (2016-2021): Developing a regional Atmosphere-Ocean-Wave coupled model system through a community coupler, 900k RMB, **PI**
+2.	National Key Research and Development Program of China (2016-2021): Developing a regional Atmosphere-Ocean-Wave coupled model system through a community coupler, 900k RMB, PI
 	
-3.	National Programme on Global Change and Air-Sea Interaction (2016-2020): Improving the atmosphere-ocean-wave processes for Typhoon forecast in the western North Pacific, 1200K RMB, **PI**
+3.	National Programme on Global Change and Air-Sea Interaction (2016-2020): Improving the atmosphere-ocean-wave processes for Typhoon forecast in the western North Pacific, 1200K RMB, PI
 	
-4.	CMA earth system modelling and prediction center (2023-2024): CMA-TYM air-sea-wave coupled model development,100K RMB, **PI**
+4.	CMA earth system modelling and prediction center (2023-2024): CMA-TYM air-sea-wave coupled model development,100K RMB, PI
 
 
 Services
