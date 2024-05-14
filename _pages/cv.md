@@ -56,7 +56,7 @@ Skills
 
 Publications
 ======
-1.      **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, under the second round of review.
+1.     **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, under the second round of review.
 
 2.	**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al., 2022. The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. *Journal of Geophysical Research: Oceans*, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
    
@@ -80,9 +80,9 @@ Publications
 
 12.	Zhanpeng Zhuang, Yang, Y., Shu, Q., Song, Z., **Zhao, B.**, Yuan, Y., 2023. Variability of non-breaking surface-wave induced mixing and its effects on ocean thermodynamical structure in the northwest Pacific during Typhoon Lekima (2019). *Deep Sea Research Part I*, 202,104178, https://doi.org/10.1016/j.dsr.2023.104178.
 
-13.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023: CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, *Geoscientific Model Development*, 16, 6285–6308, https://doi.org/10.5194/gmd-16-6285-2023.
+13.	Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2023. CIOFC1.0: a common parallel input/output framework based on C-Coupler2.0, *Geoscientific Model Development*, 16, 6285–6308, https://doi.org/10.5194/gmd-16-6285-2023.
 
-14.	Zhao, J., Yang, T., Shu, Q.，Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. *Acta Oceanologica Sinica*, 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0
+14.	Zhao, J., Yang, T., Shu, Q.，Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. *Acta Oceanologica Sinica*, 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0.
 
   
 Talks
