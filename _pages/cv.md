@@ -22,12 +22,12 @@ Work Experience
   * Duties included: air-wave interaction
   * Supervisor: Associate Professor Lichuan Wu and Erik Sahlée
   
-* 2014.04-2023.08: Research Associate
+* 2014.04-2023.08: Researcher
   * First Institute of Oceanography
   * Duties included: developing air-sea-wave coupled model, tropical cyclone study
   * Supervisor: Professor Fangli Qiao
 
-* 2012.07-2014.04: Research Associate
+* 2012.07-2014.04: Researcher
   * National Marine Environmental Forecasting Center
   * Duties included: Arctic ocean-ice modelling
   * Supervisor: Professor Qinghua Yang
