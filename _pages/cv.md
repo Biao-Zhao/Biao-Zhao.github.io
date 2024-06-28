@@ -56,7 +56,7 @@ Skills
 
 Publications
 ======
-1.     **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, under the second round of review.
+1.     **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, Accepted.
 
 2.	**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al., 2022. The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. *Journal of Geophysical Research: Oceans*, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
    
