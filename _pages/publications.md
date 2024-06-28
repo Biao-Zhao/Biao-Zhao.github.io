@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 2024
 ======
-**Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, under the second round of review. [manuscript](https://github.com/Biao-Zhao/manuscript/blob/main/A%20Numerical%20Study%20of%20Tropical%20Cyclone%20and%20Ocean%20Responses%20to%20Air-sea%20Momentum%20Flux%20at%20high%20winds.pdf)
+**Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, accepted. [manuscript](https://github.com/Biao-Zhao/manuscript/blob/main/A%20Numerical%20Study%20of%20Tropical%20Cyclone%20and%20Ocean%20Responses%20to%20Air-sea%20Momentum%20Flux%20at%20high%20winds.pdf)
 
 2023
 ======
