@@ -19,17 +19,17 @@ Work Experience
 ======
 * 2023.08-present: Postdoctoral Researcher
   * Uppsala Univeristy
-  * Duties included: air-wave interaction
+  * Duties included: air-wave interaction, wind engergy
   * Supervisor: Associate Professor Lichuan Wu and Erik Sahlée
   
 * 2014.04-2023.08: Researcher
   * First Institute of Oceanography
-  * Duties included: developing air-sea-wave coupled model, tropical cyclone study
+  * Duties included: developing air-sea-wave coupled model, tropical cyclone
   * Supervisor: Professor Fangli Qiao
 
 * 2012.07-2014.04: Researcher
   * National Marine Environmental Forecasting Center
-  * Duties included: Arctic ocean-ice modelling
+  * Duties included: ocean and sea ice modelling in Arctic ocean
   * Supervisor: Professor Qinghua Yang
   
 Skills
@@ -41,10 +41,10 @@ Skills
   * Linux/Unix
   * GitHub&GitLab
 * Numerical Models
-  * air: WRF
-  * ocean: ROMS, POM
-  * wave: WAVEWATCH III, MASNUM
-  * coupler: C-Coupler
+  * Air model: WRF
+  * Ocean models: ROMS, POM
+  * Wave models: WAVEWATCH III, MASNUM
+  * Coupler: C-Coupler
 * Data Visualization
   * MATLAB
   * Surfer
@@ -58,7 +58,7 @@ Publications
 ======
 1.      **Zhao, B.** et al., 2024. The Impact of Wind Turbine’s Blocking on Wind Stress: A Numerical Study Based on Idealized Experiments, in preparation.
    
-2.        **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, accepted.
+2.      **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, submitted to the *Journal of Geophysical Research: Oceans*, accepted.
 
 3.	**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al., 2022. The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. *Journal of Geophysical Research: Oceans*, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
    
@@ -102,13 +102,13 @@ Talks
   
 Projects
 ======
-1.	National Natural Science Foundation of China (2015-2018): Effect of rainfall-induced horizontal stress on air-sea momentum flux, 258k RMB, PI
+1. National Natural Science Foundation of China (2015-2018): Effect of rainfall-induced horizontal stress on air-sea momentum flux, 258k RMB, PI
    
-2.	National Key Research and Development Program of China (2016-2021): Developing a regional Atmosphere-Ocean-Wave coupled model system through a community coupler, 900k RMB, PI
+2. National Key Research and Development Program of China (2016-2021): Developing a regional Atmosphere-Ocean-Wave coupled model system through a community coupler, 900k RMB, PI
 	
-3.	National Programme on Global Change and Air-Sea Interaction (2016-2020): Improving the atmosphere-ocean-wave processes for Typhoon forecast in the western North Pacific, 1200K RMB, PI
+3. National Programme on Global Change and Air-Sea Interaction (2016-2020): Improving the atmosphere-ocean-wave processes for Typhoon forecast in the western North Pacific, 1200K RMB, PI
 	
-4.	CMA earth system modelling and prediction center (2023-2024): CMA-TYM air-sea-wave coupled model development,100K RMB, PI
+4. CMA earth system modelling and prediction center (2023-2024): CMA-TYM air-sea-wave coupled model development,100K RMB, PI
 
 
 Services
