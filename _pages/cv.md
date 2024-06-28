@@ -20,7 +20,7 @@ Work Experience
 * 2023.08-present: Postdoctoral Researcher
   * Uppsala Univeristy
   * Duties included: air-wave interaction, wind engergy
-  * Supervisor: Associate Professor Lichuan Wu and Erik Sahlée
+  * Supervisor: Associate Professors Lichuan Wu and Erik Sahlée
   
 * 2014.04-2023.08: Researcher
   * First Institute of Oceanography
@@ -37,14 +37,13 @@ Skills
 * Computer
   * Fortran
   * MATLAB
-  * Shell
-  * Linux/Unix
+  * Linux/Unix Shell
   * GitHub&GitLab
 * Numerical Models
-  * Air model: WRF
-  * Ocean models: ROMS, POM
-  * Wave models: WAVEWATCH III, MASNUM
-  * Coupler: C-Coupler
+  * Atmosphere: WRF(LES)
+  * Ocean: ROMS, POM
+  * Wave: WAVEWATCH III, MASNUM
+  * Coupler: C-Coupler, OASIS3-MCT
 * Data Visualization
   * MATLAB
   * Surfer
