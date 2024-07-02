@@ -15,10 +15,10 @@ Education
 * M.S. in Physical Oceanography, First Institute of Oceanograpgy, 2012
 * B.S. in Marine Science, Ocean University of China, 2008
 
-Work Experience
+Professional Experience
 ======
 * 2023.08-present: Postdoctoral Researcher
-  * Uppsala Univeristy
+  * Uppsala University
   * Duties included: air-wave interaction, wind engergy
   * Supervisor: Associate Professors Lichuan Wu and Erik Sahlée
   
