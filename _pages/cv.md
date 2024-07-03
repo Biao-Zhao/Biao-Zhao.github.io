@@ -34,7 +34,7 @@ Professional Experience
   
 Skills
 ======
-* Computer
+* Programming Languages
   * Fortran
   * MATLAB
   * Linux/Unix Shell
