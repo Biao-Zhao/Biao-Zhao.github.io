@@ -57,11 +57,11 @@ Publications
 ======
 1. **Zhao, B.** et al., 2024. The Impact of Wind Turbine’s Blocking on Wind Stress: A Numerical Study Based on Idealized Experiments, in preparation.
    
-2. **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds. *Journal of Geophysical Research: Oceans*, accepted.
+2. **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds. *Journal of Geophysical Research: Oceans*, 129(7), e2024JC020956. https://doi.org/10.1029/2024JC020956.
 
 3. **Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al., 2022. The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. *Journal of Geophysical Research: Oceans*, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
 
-4. **Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall. *Journal of Geophysical Research: Oceans*, 122(3), 1702-1723.
+4. **Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall. *Journal of Geophysical Research: Oceans*, 122(3), 1702-1723. https://doi.org/10.1002/2016JC012262.
 
 5. **Zhao, B.**, Qiao, F., and Wang, G., 2014. The effects of the non-breaking surface wave-induced vertical mixing on the forecast of tropical cyclone tracks. *Chinese Science Bulletin*, 59(24), 3075-3084. https://doi.org/10.1007/s11434-014-0255-0.
 
