@@ -11,6 +11,8 @@ author_profile: true
 ======
 **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, *Journal of Geophysical Research: Oceans*, 129(7), e2024JC020956. [https://doi.org/10.1029/2024JC020956](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC020956)
 
+Li, S., **Zhao, B.**, Ma, S., Yin, X., Ji, D., Qiao, F., 2024. Effects of Sea Spray on Extreme Precipitation Forecasting: A case study in Beijing of China. Geophysical Research Letters, accepted (in press).
+
 2023
 ======
 Xu, X., Voermans, J. J., Zhang, W., **Zhao, B.**, Qiao, F., liu, Q., et al., 2023. Tropical Cyclone modeling with the inclusion of wave-coupled processes: Sea spray and wave turbulence. *Geophysical Research Letters*, 50, e2023GL106536. [https://doi.org/10.1029/2023GL106536](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106536).
