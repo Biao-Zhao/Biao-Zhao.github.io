@@ -103,14 +103,7 @@ Talks
   
 Projects
 ======
-1. National Natural Science Foundation of China (2015-2018): Effect of rainfall-induced horizontal stress on air-sea momentum flux, 258k RMB, PI
-   
-2. National Key Research and Development Program of China (2016-2021): Developing a regional Atmosphere-Ocean-Wave coupled model system through a community coupler, 900k RMB, PI
-	
-3. National Programme on Global Change and Air-Sea Interaction (2016-2020): Improving the atmosphere-ocean-wave processes for Typhoon forecast in the western North Pacific, 1200K RMB, PI
-	
-4. CMA earth system modelling and prediction center (2023-2024): CMA-TYM air-sea-wave coupled model development,100K RMB, PI
-
+Air-Sea-Wave Coupled Model Development for Tropical Cyclone, 2023-2024, 100K RMB, co-principal investigator, Center for Earth System Modeling and Prediction, CMA.
 
 Services
 ======
