@@ -67,7 +67,7 @@ Publications
 
 6. Wang, G., **Zhao, B.**, Qiao, F. et al., 2018. Rapid intensification of Super Typhoon Haiyan: the important role of a warm-core ocean eddy. *Ocean Dynamics*, 68(12), 1649-1661. https://doi.org/10.1007/s10236-018-1217-x.
    
-7. Li, S., **Zhao, B.**, Ma, S., Yin, X., Ji, D., Qiao, F., 2024. Effects of Sea Spray on Extreme Precipitation Forecasting: A case study in Beijing of China. Geophysical Research Letters, accepted (in press).
+7. Li, S., **Zhao, B.**, Ma, S., Yin, X., Ji, D., Qiao, F., 2024. Effects of Sea Spray on Extreme Precipitation Forecasting: A case study in Beijing of China. Geophysical Research Letters, 51, e2024GL109923. https://doi.org/10.1029/2024GL109923.
 
 8. Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. *Journal of Geophysical Research: Oceans*, 123, 9357– 9368. https://doi.org/10.1029/2018JC014137.
 
