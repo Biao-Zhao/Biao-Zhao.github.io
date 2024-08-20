@@ -87,6 +87,8 @@ Publications
 
 16. Zhao, J., Yang, T., Shu, Q.，Shen, H., Tian, Z., Hao, G., **Zhao, B.**., 2021. Modelling the annual cycle of landfast ice near Zhongshan Station, East Antarctica. *Acta Oceanologica Sinica*, 40, 129–141. https://doi.org/10.1007/s13131-021-1727-0.
 
+17. Zhao, C., Wang, G., Zhang, M., Wang, G., de With, G., Bezhenar, R., Maderich, V., Xia, C., **Zhao, B.**, et al., 2021. Transport and dispersion of tritium from the radioactive water of the Fukushima Daiichi nuclear plant. Marine Pollution Bulletin 169, 112515, doi:https://doi.org/10.1016/j.marpolbul.2021.112515.
+
   
 Talks
 ======
