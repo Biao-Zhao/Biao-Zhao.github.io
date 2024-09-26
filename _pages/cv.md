@@ -40,7 +40,7 @@ Skills
   * Linux/Unix Shell
   * GitHub&GitLab
 * Numerical Models
-  * Atmosphere: WRF(LES)
+  * Atmosphere: WRF
   * Ocean: ROMS, POM
   * Wave: WAVEWATCH III, MASNUM
   * Coupler: C-Coupler, OASIS3-MCT
