@@ -13,6 +13,8 @@ influence during extreme weather events such as tropical cyclones. My work explo
 As a modeler, I have spent recent years developing the Atmosphere-Ocean-Wave coupled model, FIO-AOW [FIO-AOW](https://github.com/Biao-Zhao/FIO-AOW), to better capture the complexities of these air-sea-wave 
 coupled processes. My research aims to enhance our understanding of these dynamics and improve simulations of ocean and atmosphere systems. 
 
+Sometimes, I find myself as a modeler in a room full of oceanographers and an oceanographer in a room full of modelers. But I view this dual perspective as a unique opportunity to bridge these fields, constantly learning and adapting to enrich my understanding of complex ocean-atmosphere interactions
+
 Here is my [Google Scholar page](https://scholar.google.com/citations?user=YAZxa00AAAAJ&hl=en)
 
 
