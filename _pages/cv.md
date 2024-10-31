@@ -20,17 +20,14 @@ Professional Experience
 * 2023.08-present: Postdoctoral Researcher
   * Uppsala University
   * Duties included: air-wave interaction, wind engergy
-  * Supervisor: Associate Professors Lichuan Wu and Erik Sahlée
   
 * 2014.04-2023.08: Researcher
   * First Institute of Oceanography
   * Duties included: developing air-sea-wave coupled model, tropical cyclone
-  * Supervisor: Professor Fangli Qiao
 
 * 2012.07-2014.04: Researcher
   * National Marine Environmental Forecasting Center
   * Duties included: ocean and sea ice modelling in Arctic ocean
-  * Supervisor: Professor Qinghua Yang
   
 Skills
 ======
