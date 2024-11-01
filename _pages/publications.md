@@ -9,6 +9,8 @@ author_profile: true
 
 2024
 ======
+**Zhao, B.**,Sahlée, E., Du, J., Wu, L., 2024. Wind stress modification by offshore wind turbines: A numerical study of wave blocking impacts, *Ocean Engineering*, 33, 119651. [https://doi.org/10.1016/j.oceaneng.2024.119651] (https://www.sciencedirect.com/science/article/pii/S0029801824029895)
+
 **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds, *Journal of Geophysical Research: Oceans*, 129(7), e2024JC020956. [https://doi.org/10.1029/2024JC020956](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC020956)
 
 Li, S., **Zhao, B.**, Ma, S., Yin, X., Ji, D., Qiao, F., 2024. Effects of Sea Spray on Extreme Precipitation Forecasting: A case study in Beijing of China. Geophysical Research Letters, 51, e2024GL109923. [https://doi.org/10.1029/2024GL109923](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109923).
