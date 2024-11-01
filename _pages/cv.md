@@ -52,7 +52,7 @@ Skills
 
 Publications
 ======
-1. **Zhao, B.** et al., 2024. The Impact of Wind Turbine’s Blocking on Wind Stress: A Numerical Study Based on Idealized Experiments, *Ocean Engineering*, accepted.
+1. **Zhao, B.**,Sahlée, E., Du, J., Wu, L., 2024. Wind stress modification by offshore wind turbines: A numerical study of wave blocking impacts, *Ocean Engineering*, 33, 119651. https://doi.org/10.1016/j.oceaneng.2024.119651.
    
 2. **Zhao, B.**, Wu, L., Wang, G., Zhang, J. A., et al., 2024. A numerical study of tropical cyclone and ocean responses to air-sea momentum flux at high winds. *Journal of Geophysical Research: Oceans*, 129(7), e2024JC020956. https://doi.org/10.1029/2024JC020956.
 
