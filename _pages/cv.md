@@ -40,7 +40,7 @@ Skills
   * Atmosphere: WRF
   * Ocean: ROMS, POM
   * Wave: WAVEWATCH III, MASNUM
-  * Coupler: C-Coupler, OASIS3-MCT
+  * Coupler: C-Coupler
 * Data Visualization
   * MATLAB
   * Surfer
