@@ -86,6 +86,10 @@ Publications
 
 17. Zhao, C., Wang, G., Zhang, M., Wang, G., de With, G., Bezhenar, R., Maderich, V., Xia, C., **Zhao, B.**, et al., 2021. Transport and dispersion of tritium from the radioactive water of the Fukushima Daiichi nuclear plant. Marine Pollution Bulletin 169, 112515, doi:https://doi.org/10.1016/j.marpolbul.2021.112515.
 
+Softwares
+======
+1. **Zhao, B**. (2024). FIO-AOW (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.14546846
+
   
 Talks
 ======
