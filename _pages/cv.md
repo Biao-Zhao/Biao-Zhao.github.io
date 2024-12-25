@@ -106,9 +106,14 @@ Talks
   
 Projects
 ======
-1. Air-Sea-Wave Coupled Model Development for Tropical Cyclone, 2023-2024, 100K RMB, co-principal investigator, Center for Earth System Modeling and Prediction, CMA.
+1. Air-Sea-Wave Coupled Model Development for Tropical Cyclone, 2023-2024, 15K USD, principal investigator, Center for Earth System Modeling and Prediction, CMA.
+2. Developing a Regional Atmosphere-Ocean-Wave Coupled Model System Through a Community Coupler,120K USD, 2016-2021, principal investigator, National Key Research and Development Program of China
+3. Effect of Rainfall-Induced Horizontal Stress on Air-Sea Momentum Flux, 36K USD, 2016-2021, principal investigator, National Natural Science Foundation of China
+
+Award
+======  
+1. Development and Application of the 2nd Generation Earth System Model with Ocean Surface Waves, First Prize of Marine Engineering Science and Technology Award in 2023, 12th-ranked contributor
 
 Services
 ======
-Reviewer for Journal of Geophysical Research: Oceans； Journal of Geophysical Research: Atmosphere； Geoscientific Model Development；Journal of Renewable and Sustainable Energy 
-Ocean Modelling; Acta Oceanologica Sinica; Advances in Marine Science
+Reviewer for Journal of Geophysical Research: Oceans； Journal of Geophysical Research: Atmosphere； Geoscientific Model Development；Journal of Renewable and Sustainable Energy; Ocean Modelling; Acta Oceanologica Sinica; Advances in Marine Science
