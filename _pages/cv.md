@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Ecology, Specialization in Atmospheric Science, Tsinghua University, 2023
+* Ph.D in Ecology (Specialization in Atmospheric Science), Tsinghua University, 2023
 * M.S. in Physical Oceanography, First Institute of Oceanography, 2012
-* B.S. in Marine Science, Specialization in Physical Oceanography, Ocean University of China, 2008
+* B.S. in Marine Science (Specialization in Physical Oceanography), Ocean University of China, 2008
 
 Professional Experience
 ======
