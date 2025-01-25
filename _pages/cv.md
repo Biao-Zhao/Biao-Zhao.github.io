@@ -116,4 +116,4 @@ Award
 
 Services
 ======
-Reviewer for:  Geoscientific Model Development；Journal of Renewable and Sustainable Energy; Acta Oceanologica Sinica; Advances in Marine Science; Tellus A: Dynamic Meteorology and Oceanography; Bulletin of the American Meteorological Society
+Reviewer for:  Bulletin of the American Meteorological Society; Geoscientific Model Development; Tellus A: Dynamic Meteorology and Oceanography; Acta Oceanologica Sinica; Advances in Marine Science; Journal of Marine Science and Engineering; Atmosphere; Journal of Renewable and Sustainable Energy; Energy; Applied Energy;  
