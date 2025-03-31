@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Ecology (Specialization in Atmospheric Science), Tsinghua University, 2023
 * M.S. in Physical Oceanography, First Institute of Oceanography, 2012
-* B.S. in Marine Science (Specialization in Physical Oceanography), Ocean University of China, 2008
+* B.S. in Marine Science (Specialization in Oceanography), Ocean University of China, 2008
 
 Professional Experience
 ======
@@ -107,8 +107,7 @@ Talks
 Projects
 ======
 1. Air-Sea-Wave Coupled Model Development for Tropical Cyclone, 2023-2024, 15K USD, principal investigator, Center for Earth System Modeling and Prediction, CMA
-2. Developing a Regional Atmosphere-Ocean-Wave Coupled Model System Through a Community Coupler,120K USD, 2016-2021, principal investigator, National Key Research and Development Program of China
-3. Effect of Rainfall-Induced Horizontal Stress on Air-Sea Momentum Flux, 36K USD, 2016-2021, principal investigator, National Natural Science Foundation of China
+2. Effect of Rainfall-Induced Horizontal Stress on Air-Sea Momentum Flux, 36K USD, 2016-2021, principal investigator, National Natural Science Foundation of China
 
 Award
 ======  
