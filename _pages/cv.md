@@ -99,12 +99,11 @@ Talks
 1. **Zhao Biao**, A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations, 
     *Science club*, April 2025, DHI, Denmark, online (Invited Talk).
    
-2.  **Zhao Biao**, The Role of Ocean Surface Waves in Modulating Tropical Cyclone Intensity,*Workshop on surface process coupling and its  
-    interactions with the atmosphere*, April 2025, ECMWF, Bonn, Germany (Poster).
+2. **Zhao Biao**, The Role of Ocean Surface Waves in Modulating Tropical Cyclone Intensity,*Workshop on surface process coupling and its interactions with the atmosphere*, April 2025, ECMWF, Bonn, Germany (Poster).
     
 3. **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, *Autumn Seminar*, 2023.08, Uppsala, Sweden (Talk).
    
-4.  **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, *4th Workshop on Waves and Wave-Coupled Processes*, 2023.02, Uppsala, Sweden (Online Talk).
+4. **Zhao Biao**, The effects of ocean surface waves on tropical cyclone intensity, *4th Workshop on Waves and Wave-Coupled Processes*, 2023.02, Uppsala, Sweden (Online Talk).
   
 5. **Zhao Biao**, the development of a regional Atmosphere-Ocean-Wave coupled model for Typhoon, *Eat Asian Workshop on a predicted Ocean*, 2021.09, Qingdao, China (online Talk).
   
