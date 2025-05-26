@@ -52,7 +52,7 @@ Skills
 
 Publications
 ======
-1. **Zhao, B.**, Sahlée, E., Du, J., Wu, L. A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations.
+1. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations.
 Submitted to *Journal of Advances in Modeling Earth Systems*
 
 2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., 2024. Wind stress modification by offshore wind turbines: A numerical study of wave blocking impacts, *Ocean Engineering*, 33, 119651. https://doi.org/10.1016/j.oceaneng.2024.119651.
