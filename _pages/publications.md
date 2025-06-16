@@ -9,7 +9,7 @@ author_profile: true
 
 2025
 ======
-**Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations. Submitted to Journal of Advances in Modeling Earth Systems.
+**Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations. Submitted to Journal of Advances in Modeling Earth Systems. [https://10.22541/essoar.175008916.65969995/v1](https://10.22541/essoar.175008916.65969995/v1)
 
 2024
 ======
