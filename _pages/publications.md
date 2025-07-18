@@ -11,7 +11,7 @@ author_profile: true
 
 2025
 ======
-Li, S., **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Submitted to Nature Geoscience. [https://doi.org/10.21203/rs.3.rs-7048480/v1](https://doi.org/10.21203/rs.3.rs-7048480/v1)
+Li, S.<sup>†</sup>, **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Submitted to Nature Geoscience. [https://doi.org/10.21203/rs.3.rs-7048480/v1](https://doi.org/10.21203/rs.3.rs-7048480/v1)
 
 **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations. Submitted to Journal of Advances in Modeling Earth Systems. [https://doi.org/10.22541/essoar.175008916.65969995/v1](https://doi.org/10.22541/essoar.175008916.65969995/v1)
 
