@@ -50,8 +50,9 @@ Skills
   * EMD
     
 
-Publications († indicates co-first authorship)
+Publications 
 ======
+(† indicates co-first authorship)
 1.  Li, S., **Zhao, B.**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., 2025. Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Submitted to *Nature Geoscience*. https://doi.org/10.21203/rs.3.rs-7048480/v1
 
 2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations.
