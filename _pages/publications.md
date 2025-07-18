@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+(† indicates co-first authorship)
 2025
 ======
 Li, S., **Zhao, B.†**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Submitted to Nature Geoscience. [https://doi.org/10.21203/rs.3.rs-7048480/v1](https://doi.org/10.21203/rs.3.rs-7048480/v1)
