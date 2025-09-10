@@ -17,7 +17,11 @@ Education
 
 Professional Experience
 ======
-* 2023.08-present: Postdoctoral Researcher
+* 2025.07-present: Postdoctoral Research Associate
+  * Princeton University, GFDL
+  * Duties included: SHiELD-MOM6-WW3 coupled model
+  * 
+* 2023.08-2025.07: Postdoctoral Researcher
   * Uppsala University
   * Duties included: air-wave interaction, offshore engergy
   
