@@ -50,7 +50,7 @@ Skills
   * MATLAB
   * Surfer
   * Grapher
-  * Pyhon
+  * Python
 * Data Analysis
   * EOF
   * EMD
@@ -62,7 +62,7 @@ Publications
 1.  Li, S.<sup>†</sup>, **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., 2025. Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Submitted to *Nature Geoscience*. https://doi.org/10.21203/rs.3.rs-7048480/v1
 
 2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Subgrid-Scale Parameterization of wave-structure interactions for Spectral Wave Models: Idealized Simulations in Offshore Wind Farm Conditions.
-Submitted to *Journal of Advances in Modeling Earth Systems*, https://doi.org/10.22541/essoar.175008916.65969995/v1.
+Accepted by *Journal of Advances in Modeling Earth Systems*, https://doi.org/10.22541/essoar.175008916.65969995/v1.
 
 3. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., 2024. Wind stress modification by offshore wind turbines: A numerical study of wave blocking impacts, *Ocean Engineering*, 33, 119651. https://doi.org/10.1016/j.oceaneng.2024.119651.
    
