@@ -38,17 +38,19 @@ Skills
 * Programming Languages
   * Fortran
   * MATLAB
+  * Python
   * Linux/Unix Shell
   * GitHub&GitLab
 * Numerical Models
-  * Atmosphere: WRF
-  * Ocean: ROMS, POM
+  * Atmosphere: WRF, SHiELD
+  * Ocean: ROMS, POM, MOM6
   * Wave: WAVEWATCH III, MASNUM
-  * Coupler: C-Coupler, OASIS
+  * Coupler: C-Coupler, OASIS, FMS
 * Data Visualization
   * MATLAB
   * Surfer
   * Grapher
+  * Pyhon
 * Data Analysis
   * EOF
   * EMD
@@ -59,7 +61,7 @@ Publications
 <em>The superscript <sup>†</sup> indicates co-first authorship.</em>
 1.  Li, S.<sup>†</sup>, **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., 2025. Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Submitted to *Nature Geoscience*. https://doi.org/10.21203/rs.3.rs-7048480/v1
 
-2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Wave Diffraction Theory-Based Wave Scattering Parameterization for Spectral Wave Models and Idealized Simulations.
+2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Subgrid-Scale Parameterization of wave-structure interactions for Spectral Wave Models: Idealized Simulations in Offshore Wind Farm Conditions.
 Submitted to *Journal of Advances in Modeling Earth Systems*, https://doi.org/10.22541/essoar.175008916.65969995/v1.
 
 3. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., 2024. Wind stress modification by offshore wind turbines: A numerical study of wave blocking impacts, *Ocean Engineering*, 33, 119651. https://doi.org/10.1016/j.oceaneng.2024.119651.
@@ -99,6 +101,7 @@ Submitted to *Journal of Advances in Modeling Earth Systems*, https://doi.org/10
 Softwares
 ======
 1. **Zhao, B**. (2024). FIO-AOW (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.14546846
+2. **Zhao, B**. (2026). WaveF (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.18174026
 
   
 Talks
@@ -130,4 +133,4 @@ Award
 
 Services
 ======
-Reviewer for: (1) Bulletin of the American Meteorological Society; (2) Geophysical research letters; (3) Geoscientific Model Development; (4) Water resources research; (5) Tellus A: Dynamic Meteorology and Oceanography; (6) Acta Oceanologica Sinica; (7) Advances in Marine Science; (8) Journal of Marine Science and Engineering; (9) Atmosphere; (10) Journal of Renewable and Sustainable Energy; (11) Energy; (12) Applied Energy;  
+Reviewer for: (1) Bulletin of the American Meteorological Society; (2) Geophysical research letters; (3) Journal of geophysical research, (4) Journal of Climate, (5) Geoscientific Model Development; (6) Water resources research; (7) npj Climate and Atmospheric Science, (8) Ocean Dynamics, (9) Journal of Applied Meteorology and Climatology, (10) Tellus A: Dynamic Meteorology and Oceanography; (11) Acta Oceanologica Sinica; (12) Advances in Marine Science; (13) Journal of Marine Science and Engineering; (14) Atmosphere; (15) Journal of Renewable and Sustainable Energy; (16) Energy; (17) Applied Energy; 
