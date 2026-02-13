@@ -61,8 +61,7 @@ Publications
 <em>The superscript <sup>†</sup> indicates co-first authorship.</em>
 1.  Li, S.<sup>†</sup>, **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., 2025. Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. *Communications Earth & Environment*, under review. https://doi.org/10.21203/rs.3.rs-7048480/v1
 
-2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Subgrid-Scale Parameterization of wave-structure interactions for Spectral Wave Models: Idealized Simulations in Offshore Wind Farm Conditions.
-Accepted by *Journal of Advances in Modeling Earth Systems*, https://doi.org/10.22541/essoar.175008916.65969995/v1.
+2. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Subgrid-Scale Parameterization of wave-structure interactions for Spectral Wave Models: Idealized Simulations in Offshore Wind Farm Conditions. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005603. https://doi.org/10.1029/2025MS005603.
 
 3. **Zhao, B.**, Sahlée, E., Du, J., Wu, L., 2024. Wind stress modification by offshore wind turbines: A numerical study of wave blocking impacts, *Ocean Engineering*, 33, 119651. https://doi.org/10.1016/j.oceaneng.2024.119651.
    
