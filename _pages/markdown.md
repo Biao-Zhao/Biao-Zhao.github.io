@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Atmosphere--Ocean-Wave coupled model Development
+## Atmosphere--Ocean-Wave coupled model Development[https://biaozhao.scholar.princeton.edu/research]
 
 
 
@@ -15,4 +15,4 @@ redirect_from:
 
 
 
-## Air-Wave interaction and their impact on wind farm
+## Ocean Surface Wave Dynamics in Offshore Energy Applications
