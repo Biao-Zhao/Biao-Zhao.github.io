@@ -31,6 +31,9 @@ Offshore wind turbines and wave energy devices interact with ocean waves in comp
 </p>
 
 ## Area 4: Air–Sea Coupled Processes and Their Impact on Extratropical Cyclone Predictability
+<p align="center">
+<br/><img src='/images/ETC.png'>
+</p>
 <p style="text-align: justify;">
 At Princeton University and NOAA GFDL, I am advancing the SHiELD–MOM6 atmosphere–ocean coupled modeling system by improving the physical representation of air–sea interactions. My research interests have further expanded to Nor’easters, a class of high-impact extratropical cyclones characterized by strong air–sea coupling that frequently affect the U.S. East Coast. These storms can produce extreme snowfall, strong winds, coastal flooding, and hazardous ocean waves. Using kilometer-scale coupled simulations, I investigate how air–sea processes influence storm evolution and their implications for enhancing the predictability of these events.
 </p>
