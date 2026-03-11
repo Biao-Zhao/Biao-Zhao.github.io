@@ -28,8 +28,7 @@ I have been working on the development of an atmosphere–ocean–wave coupled m
 
 ## [Area 3: Ocean Surface Wave Dynamics in Offshore Energy Applications](https://github.com/Biao-Zhao/WaveF)
 <p align="center">
-<br/>
-<img src="{{ site.baseurl }}/images/WaveF.gif" width="650">
+<br/><img src='/images/waveF.gig'>
 </p>
 <p style="text-align: justify;">
 Offshore wind turbines and wave energy devices interact with ocean waves in complex ways, but these interactions are often treated in a highly simplified manner in spectral wave models. In this work, I developed a new parameterization based on classical wave theory to represent wave–structure interactions, in which total wave energy is conserved while being redistributed across wave directions to account for scattering by cylindrical structures. This method has been implemented in WAVEWATCH III as a source term. This project helped shape how I approach scientific problem. Rather than relying on empirical fixes, I learned to focus on the underlying physical principles and to build solutions directly from them. 
