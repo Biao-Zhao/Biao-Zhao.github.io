@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 📄 **[Download CV (PDF)](/files/CV_BiaoZhao.pdf)**
+
 Education
 ======
 * Ph.D in Ecology (Specialization in Atmospheric Science), Tsinghua University, 2023
