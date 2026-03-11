@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 ## [Area 1: Atmosphere--Ocean-Wave coupled model Development](https://github.com/Biao-Zhao)
- <br/><img src='/images/fio-aow.png'>
+<p align="center">
+<br/><img src='/images/fio-aow.png'>
+</p>
 Despite substantial advances in numerical weather prediction, accurately forecasting tropical cyclone intensity remains a major challenge. This limitation is widely linked to deficiencies in current models, including insufficient resolution and an incomplete representation of air–sea interactions under extreme wind conditions.  My research seeks to improve the representation of these processes by explicitly incorporating key air–sea–wave interaction mechanisms into coupled atmosphere–ocean–wave models. By representing these  processes, this work contributes to more realistic simulations of tropical cyclone intensity. Through this research, I became more aware of how limited our current understanding remains of air–sea interactions under extreme conditions. The work highlighted that seemingly small-scale processes at the air–sea interface, when persistently misrepresented or neglected, can accumulate over time and lead to substantial differences in tropical cyclone intensity. This realization strengthened my appreciation of the need for physically grounded representations of air–sea exchange processes when studying and predicting extreme events.
 
 
