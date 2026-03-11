@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## [Area 1: Atmosphere--Ocean-Wave coupled model Development](https://github.com/Biao-Zhao)
+## [Area 1: Atmosphere--Ocean-Wave coupled model Development](https://github.com/Biao-Zhao/FIO-AOW）
 <p align="center">
 <br/><img src='/images/fio-aow.png'>
 </p>
