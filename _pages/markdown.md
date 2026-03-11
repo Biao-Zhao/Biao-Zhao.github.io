@@ -19,7 +19,7 @@ Despite substantial advances in numerical weather prediction, accurately forecas
 
 ## [Area 1: Air–Sea Interactions in Hurricanes](https://biaozhao.scholar.princeton.edu/research)
 <p align="center">
-<br/><img src='/images/fio-aow.png'>
+<br/><img src='/images/tc.png'>
 </p>
 <p style="text-align: justify;">
 I have been working on the development of an atmosphere–ocean–wave coupled modeling system, designed to represent the interactions among the atmosphere, ocean, and surface waves. Technically, this work involved extensive model debugging, code verification, and systematic testing, through which I significantly strengthened my skills in numerical modeling and large-scale scientific code development. Scientifically, the process of building and coupling the model shaped my perspective on Earth system research, leading me to approach the atmosphere, ocean, and waves as interconnected components of a single, integrated system rather than isolated ones.
