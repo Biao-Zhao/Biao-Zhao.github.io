@@ -17,7 +17,7 @@ Despite substantial advances in numerical weather prediction, accurately forecas
 </p>
 
 
-## [Area 1: Air–Sea Interactions in Hurricanes](https://biaozhao.scholar.princeton.edu/research)
+## [Area 2: Air–Sea Interactions in Hurricanes](https://biaozhao.scholar.princeton.edu/research)
 <p align="center">
 <br/><img src='/images/tc.png'>
 </p>
@@ -26,7 +26,7 @@ I have been working on the development of an atmosphere–ocean–wave coupled m
 </p>
 
 
-## [Area 1: Ocean Surface Wave Dynamics in Offshore Energy Applications](https://github.com/Biao-Zhao/WaveF)
+## [Area 3: Ocean Surface Wave Dynamics in Offshore Energy Applications](https://github.com/Biao-Zhao/WaveF)
 <p align="center">
 <br/><img src='/images/WaveF.gif'>
 </p>
