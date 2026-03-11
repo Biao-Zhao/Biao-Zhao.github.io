@@ -12,8 +12,7 @@ redirect_from:
 I have been working on the development of an atmosphere–ocean–wave coupled modeling system, designed to represent the interactions among the atmosphere, ocean, and surface waves. Technically, this work involved extensive model debugging, code verification, and systematic testing, through which I significantly strengthened my skills in numerical modeling and large-scale scientific code development. Scientifically, the process of building and coupling the model shaped my perspective on Earth system research, leading me to approach the atmosphere, ocean, and waves as interconnected components of a single, integrated system rather than isolated ones.
 </p>
 
-
-
+<br><br>
 
 ## [Area 2: Air–Sea Interactions in Hurricanes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019015)
 <p align="center">
