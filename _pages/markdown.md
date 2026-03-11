@@ -1,17 +1,17 @@
 ---
 permalink: /markdown/
-title: "to be completed"
+title: "Research Areas"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## [Atmosphere--Ocean-Wave coupled model Development][https://github.com/Biao-Zhao]
+## [Atmosphere--Ocean-Wave coupled model Development](https://github.com/Biao-Zhao)
 
 
 
-## Air–Sea Interactions in Hurricanes
+## [Air–Sea Interactions in Hurricanes](https://biaozhao.scholar.princeton.edu/research)
 
 
 
