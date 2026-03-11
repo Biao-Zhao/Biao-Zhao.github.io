@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 ## [Area 1: Atmosphere--Ocean-Wave coupled model Development](https://github.com/Biao-Zhao/FIO-AOW)
-<p align="center">
-<br/><img src='/images/fio-aow.png'>
-</p>
-
 <p style="text-align: justify;">
 I have been working on the development of an atmosphere–ocean–wave coupled modeling system, designed to represent the interactions among the atmosphere, ocean, and surface waves. Technically, this work involved extensive model debugging, code verification, and systematic testing, through which I significantly strengthened my skills in numerical modeling and large-scale scientific code development. Scientifically, the process of building and coupling the model shaped my perspective on Earth system research, leading me to approach the atmosphere, ocean, and waves as interconnected components of a single, integrated system rather than isolated ones.
 </p>
@@ -33,3 +29,5 @@ Despite substantial advances in numerical weather prediction, accurately forecas
 <p style="text-align: justify;">
 Offshore wind turbines and wave energy devices interact with ocean waves in complex ways, but these interactions are often treated in a highly simplified manner in spectral wave models. In this work, I developed a new parameterization based on classical wave theory to represent wave–structure interactions, in which total wave energy is conserved while being redistributed across wave directions to account for scattering by cylindrical structures. This method has been implemented in WAVEWATCH III as a source term. This project helped shape how I approach scientific problem. Rather than relying on empirical fixes, I learned to focus on the underlying physical principles and to build solutions directly from them. 
 </p>
+
+## [Area 3: Air–Sea Coupled Processes and Their Impact on Extratropical Cyclone Predictability]
