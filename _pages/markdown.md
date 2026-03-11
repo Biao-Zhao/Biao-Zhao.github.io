@@ -30,4 +30,5 @@ Despite substantial advances in numerical weather prediction, accurately forecas
 Offshore wind turbines and wave energy devices interact with ocean waves in complex ways, but these interactions are often treated in a highly simplified manner in spectral wave models. In this work, I developed a new parameterization based on classical wave theory to represent wave–structure interactions, in which total wave energy is conserved while being redistributed across wave directions to account for scattering by cylindrical structures. This method has been implemented in WAVEWATCH III as a source term. This project helped shape how I approach scientific problem. Rather than relying on empirical fixes, I learned to focus on the underlying physical principles and to build solutions directly from them. 
 </p>
 
-## [Area 3: Air–Sea Coupled Processes and Their Impact on Extratropical Cyclone Predictability]
+## [Area 4: Air–Sea Coupled Processes and Their Impact on Extratropical Cyclone Predictability]
+
