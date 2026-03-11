@@ -13,7 +13,7 @@ I have been working on the development of an atmosphere–ocean–wave coupled m
 </p>
 
 
-## [Area 2: Air–Sea Interactions in Hurricanes](https://biaozhao.scholar.princeton.edu/research)
+## [Area 2: Air–Sea Interactions in Hurricanes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019015)
 <p align="center">
 <br/><img src='/images/tc.png'>
 </p>
