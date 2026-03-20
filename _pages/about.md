@@ -14,7 +14,7 @@ As a modeler, I have spent recent years developing the Atmosphere-Ocean-Wave cou
 
 Sometimes, I find myself as a modeler in a room full of scientists and an researcher in a room full of modelers. But I view this dual perspective as a unique opportunity to bridge these fields, constantly learning and adapting to enrich my understanding of complex ocean-atmosphere interactions.
 
-Currently, I am affiliated with the Atmospheric & Oceanic Sciences (AOS) and Cooperative Institute for Modeling the Earth System (CIMES) of **Princeton University**, where I contribute to the development of the [SHiELD–MOM6–WW3](https://github.com/Biao-Zhao/SHiELD-MOM6-WW3/tree/main) coupled model in collaboration with scientists at **NOAA GFDL**, and investigate the mechanisms of kilometer-scale air–sea interactions in extratropical cyclones.
+Currently, I am affiliated with the Atmospheric & Oceanic Sciences (AOS) and Cooperative Institute for Modeling the Earth System (CIMES) of **Princeton University**, where I contribute to the development of the [**SHiELD–MOM6–WW3**](https://github.com/Biao-Zhao/SHiELD-MOM6-WW3/tree/main) coupled model in collaboration with scientists at **NOAA GFDL**, and investigate the mechanisms of kilometer-scale air–sea interactions in extratropical cyclones.
 
 You can also find more information on my [Princeton profile](https://biaozhao.scholar.princeton.edu/)
 
