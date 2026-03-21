@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an researcher specializing in the effects of ocean surface waves on the upper ocean and air-sea fluxes, with a particular focus on their 
-influence during extreme weather events such as tropical cyclones and extratropical cyclones. My work explores how these interactions affect both oceanic and atmospheric processes.
+I am a researcher focusing on air-sea interaction, investigating how ocean surface waves influence upper-ocean mixing and air–sea fluxes, particularly during extreme events such as tropical and extratropical cyclones, with an emphasis on their representation in coupled ocean–atmosphere models.
 
 As a modeler, I have spent recent years developing the Atmosphere-Ocean-Wave coupled model, [**FIO-AOW**](https://github.com/Biao-Zhao/FIO-AOW), together with the [**WaveF**](https://github.com/Biao-Zhao/WaveF) parameterization scheme, which represents subgrid-scale wave–structure interactions (wave scattering). My research aims to enhance our understanding of these coupled dynamics and improve simulations of oceanic and atmospheric systems.
 
