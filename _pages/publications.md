@@ -11,9 +11,9 @@ author_profile: true
 
 2026
 ======
-Li, S.<sup>†</sup>, **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., Incorporating Ocean Waves Improves Forecasts of Strong Tropical Cyclones. Communications Earth & Environment, under review [https://doi.org/10.21203/rs.3.rs-7048480/v1](https://doi.org/10.21203/rs.3.rs-7048480/v1)
+Li, S.<sup>†</sup>, **Zhao, B.<sup>†</sup>**, Shu, q., Ryabinin, V., Ji, D., Qiao, F., Tung, KK., 2026. Forecasts of strong tropical cyclones improved by incorporating ocean waves at air–sea interface. *Communications Earth & Environment*. [https://doi.org/10.1038/s43247-026-03754-y](https://doi.org/10.1038/s43247-026-03754-y).
 
-**Zhao, B.**, Sahlée, E., Du, J., Wu, L., A Subgrid-Scale Parameterization of wave-structure interactions for Spectral Wave Models: Idealized Simulations in Offshore Wind Farm Conditions. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005603. [https://doi.org/10.1029/2025MS005603](https://doi.org/10.1029/2025MS005603)
+**Zhao, B.**, Sahlée, E., Du, J., Wu, L., 2026. A Subgrid-Scale Parameterization of wave-structure interactions for Spectral Wave Models: Idealized Simulations in Offshore Wind Farm Conditions. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005603. [https://doi.org/10.1029/2025MS005603](https://doi.org/10.1029/2025MS005603)
 
 2024
 ======
