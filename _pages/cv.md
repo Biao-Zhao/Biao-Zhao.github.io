@@ -20,8 +20,9 @@ Education
 Professional Experience
 ======
 * 2025.07-present: Postdoctoral Research Associate
-  * Princeton University, GFDL
-  * Duties included: SHiELD-MOM6-WW3 coupled model
+  * Princeton University
+  * Geophysical Fluid Dynamics Laboratory 
+  * Duties included: SHiELD-MOM6-WW3 coupled model development, extratropical cyclone
     
 * 2023.08-2025.07: Postdoctoral Researcher
   * Uppsala University
@@ -134,4 +135,4 @@ Award
 
 Services
 ======
-Reviewer for: (1) Bulletin of the American Meteorological Society; (2) Geophysical research letters; (3) Journal of geophysical research, (4) Journal of Climate, (5) Geoscientific Model Development; (6) Water resources research; (7) npj Climate and Atmospheric Science, (8) Ocean Dynamics, (9) Journal of Applied Meteorology and Climatology, (10) Tellus A: Dynamic Meteorology and Oceanography; (11) Acta Oceanologica Sinica; (12) Advances in Marine Science; (13) Journal of Marine Science and Engineering; (14) Atmosphere; (15) Journal of Renewable and Sustainable Energy; (16) Energy; (17) Applied Energy; 
+Reviewer for: (1) Bulletin of the American Meteorological Society; (2) Geophysical research letters; (3) Journal of geophysical research, (4) Journal of Climate, (5) Geoscientific Model Development; (6) Water resources research; (7) npj Climate and Atmospheric Science, (8) Ocean Dynamics, (9) Journal of Applied Meteorology and Climatology, (10) Tellus A: Dynamic Meteorology and Oceanography; (11) Acta Oceanologica Sinica; (12) Advances in Marine Science; (13) Journal of Marine Science and Engineering; (14) Atmosphere; (15) Journal of Renewable and Sustainable Energy; (16) Energy; (17) Applied Energy; (18) Monthly Weather Review ; (19) Ocean Modelling; (20) Journal of Advances in Modeling Earth Systems
